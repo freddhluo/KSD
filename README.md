@@ -6,6 +6,7 @@ PDF:
 https://www.researchgate.net/publication/343416171_Testing_error_distribution_by_kernelized_Stein_discrepancy_in_multivariate_time_series_models 
 
 Journal Link: 
+
 https://www.tandfonline.com/doi/abs/10.1080/07350015.2021.2002160
 
 ABSTRACT
