@@ -1,8 +1,12 @@
 # KSD
 This project contains the codes in the following paper:
 Luo, D., Zhu, K., Gong, H. and Li, D. (2023), Testing error distribution by kernelized Stein discrepancy in multivariate time series models. Journal of Business & Economic Statistics 41, 111-125.
-PDF: https://www.researchgate.net/publication/343416171_Testing_error_distribution_by_kernelized_Stein_discrepancy_in_multivariate_time_series_models 
-Journal Link: https://www.tandfonline.com/doi/abs/10.1080/07350015.2021.2002160
+
+PDF: 
+https://www.researchgate.net/publication/343416171_Testing_error_distribution_by_kernelized_Stein_discrepancy_in_multivariate_time_series_models 
+
+Journal Link: 
+https://www.tandfonline.com/doi/abs/10.1080/07350015.2021.2002160
 
 ABSTRACT
 
